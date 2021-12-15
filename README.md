@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Manas:)
 
-## Hacker, blogger, podcaster, infosec speaker and a learner, always!
+## Hacker, Blogger, Podcaster, Infosec Speaker and a Learner, always!
 
 - 🔭 working as a security consultant!
 - 🌱 Hacking everything for fun and profit 😋
