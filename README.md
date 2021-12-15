@@ -1,4 +1,4 @@
-### Hi there 👋 I am Manas:)
+### Hello world 👋 I am Manas:)
 
 ## Hacker, Blogger, Podcaster, Infosec Speaker and a Learner, always!
 
