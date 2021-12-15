@@ -23,7 +23,7 @@
 - Emerging star of the year for 2020 in organization.
 
 ### 💻 I love bug bounties! 
-- Reported more than 100 bugs
+- Reported more than 100 valid bugs:)
 - 30+ hall of fames including Google, Netflix, mastercard, Tesla etc.
 - Cuurently at Level3 in Synack Red Team
 
