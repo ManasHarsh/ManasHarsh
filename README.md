@@ -18,7 +18,7 @@
 
 ### 👨‍💼 Know more about my professional journey:-
 
-- Currently working in Qseap Infotech, Mumbai since Jan, 2020.
+- Currently working at Netskope as Secuirty Analyst
 - Performed pentesting on more than 100 apps including web, mobile and thick clients. 
 - Emerging star of the year for 2020 in organization.
 
