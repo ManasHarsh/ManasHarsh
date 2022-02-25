@@ -2,7 +2,7 @@
 
 ## Hacker, Blogger, Podcaster, Infosec Speaker and a Learner, always!
 
-- 🔭 working as a security consultant!
+- 🔭 Security Professional!
 - 🌱 Hacking everything for fun and profit 😋
 - 👯 You must've read my blogs somewhere.
 - ⚡️ Keen to learn new things
