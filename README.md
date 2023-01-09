@@ -27,7 +27,7 @@
 ### 💻 I love bug bounties! 
 - Reported more than 100 valid bugs:)
 - 30+ hall of fames including Google, Netflix, mastercard, Tesla etc.
-- Currently at Level3 in Synack Red Team
+- Currently at Level4 in Synack Red Team
 
 ### Connect with me 🌐
 
