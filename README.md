@@ -18,6 +18,7 @@
 
 ### 👨‍💼 Know more about my professional journey:-
 
+- 3+ years of professional experience including Product security
 - Currently working at Netskope as Security Analyst
 - 2+ years as a security consultant in Qseap Infotech
 - Performed pentesting on more than 100 apps including web, mobile and thick clients. 
