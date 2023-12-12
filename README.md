@@ -12,10 +12,12 @@
 
 - Web app pentesting
 - Android app pentesting
-- Thick clients and APIs pentesting
-- Bash
+- APIs pentesting
+- Bash Automation
 - Report writing
-
+- Incident Response
+- Product Security
+  
 ### 👨‍💼 Know more about my professional journey:-
 
 - 4 years of professional experience including Product security
