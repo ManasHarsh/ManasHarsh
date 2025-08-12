@@ -20,10 +20,10 @@
   
 ### 👨‍💼 Know more about my professional journey:-
 
-- 4 years of professional experience including Product security
-- Currently working at Netskope as Security Analyst
+- 6 years of professional experience including Product security
+- Currently working at HackerOne as Mediation Specialist
 - 2+ years as a security consultant in Qseap Infotech
-- Performed pentesting on more than 100 apps including web, mobile and thick clients. 
+- Performed pentesting on more than 150 apps including web, mobile and thick clients. 
 - Emerging star of the year for 2020 in organization.
 
 ### 💻 I love bug bounties! 
